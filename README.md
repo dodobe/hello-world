@@ -1,2 +1,4 @@
 # hello-world
-This repository is for learning how to use GitHub.
+Hi everyone!
+  I'm just a beginner in programming.
+  I like C/C++, LoT, Java, Python, Linux and machine learning.
